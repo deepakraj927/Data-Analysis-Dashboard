@@ -15,4 +15,13 @@ The Meesho Store wants to create an annual sales report for 2026. So that Meesho
 - Which channel is contributing to maximum sales?
 - Highest selling category?
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/deepakraj927/Data-Analysis-Dashboard/blob/main/Screenshot%202026-02-08%20112156.png">View Dashboard</a>
+
+## Process
+
+- 22 Verify data for any missing values and anomalies, and sort out the same.
+- 23 Made sure data is consistent and clean with respect to data type, data format and values used.
+- 24 Created pivot tables according to the questions asked.
+- 25 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  ## Dashboard
