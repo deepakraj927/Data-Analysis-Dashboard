@@ -25,3 +25,5 @@ The Meesho Store wants to create an annual sales report for 2026. So that Meesho
 - 25 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
   ## Dashboard
+  ![Uploading Screenshot 2026-02-08 112156.png…]()
+
